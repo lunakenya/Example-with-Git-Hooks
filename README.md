@@ -39,3 +39,7 @@ Expected result: The commit will be aborted with a message like:
 ![imagen](https://github.com/user-attachments/assets/1dca01f5-9237-4ab7-beaf-49fedae879a6)
 
 Please fix the error in index.html and try again:
+![imagen](https://github.com/user-attachments/assets/39f0dcd2-735e-42de-9a40-c1f889c1a943)
+
+![imagen](https://github.com/user-attachments/assets/084961df-0c6b-4be9-aacd-34ddb691c78a)
+
